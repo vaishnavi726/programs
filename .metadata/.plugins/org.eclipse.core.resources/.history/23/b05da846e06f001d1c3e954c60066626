@@ -1,0 +1,13 @@
+package hierarchical;
+
+public class Vehicle {
+	
+	 void Runnnig() {
+		 System.out.println("start Running");
+	 }
+
+	public void keyson() {
+		// TODO Auto-generated method stub
+		
+	}	
+}

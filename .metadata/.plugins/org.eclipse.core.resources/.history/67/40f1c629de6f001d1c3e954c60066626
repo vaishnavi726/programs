@@ -1,0 +1,8 @@
+package hierarchical;
+
+public class Vehicle {
+	
+	int vehicleid;
+	String vehiclename;
+	
+}

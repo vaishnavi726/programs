@@ -1,0 +1,9 @@
+package hierarchical;
+
+public class Duke  extends Vehicle{
+	
+	void keysoff() {
+		System.out.println("Movesoff");
+	}
+
+}

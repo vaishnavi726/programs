@@ -1,0 +1,13 @@
+package hierarchical;
+
+public class Duke {
+	
+	public static void main(String[] args) {
+		Vehicle vehicle = new Vehicle("Bullet",50, 20000);
+		vehicle.bike();
+		vehicle.drive();
+		vehicle.move();
+		
+	}
+
+}
